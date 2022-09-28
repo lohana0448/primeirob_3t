@@ -1,7 +1,7 @@
-# terceiro tirmestre
+# terçeiro trimestre
 
 ## identificaççao
 Lohana Santos   Nr:36
 
-##Conteudo: 
+## Conteudo: 
 HTML, CSS e Javascript
