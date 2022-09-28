@@ -1,4 +1,4 @@
-# terçeiro trimestre
+# terceiro trimestre
 
 ## identificaçao
 Lohana Santos   Nr:36
