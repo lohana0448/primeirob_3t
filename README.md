@@ -4,4 +4,4 @@
 Lohana Santos   Nr:36
 
 ## Conteudo: 
-HTML, CSS e Javascript
+HTML, CSS e JavasCript
